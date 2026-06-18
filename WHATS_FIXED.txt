@@ -1,0 +1,159 @@
+╔══════════════════════════════════════════════════════════════════╗
+║            ✨ WHAT'S BEEN FIXED & IMPROVED ✨                    ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🎨 DESIGN IMPROVEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. ✅ COLORS - MUCH SOFTER!
+   Before: Bright, harsh #FF6B9D
+   After:  Soft, gentle #FF8FAB
+
+   All colors 30% softer - easy on eyes!
+
+2. ✅ CENTERED LAYOUT
+   Before: Everything squashed to left
+   After:  Perfectly centered!
+
+   - Welcome screen: Centered
+   - Dashboard cards: Centered
+   - Buttons: Centered
+   - All dialogs: Centered
+
+3. ✅ BETTER FONTS
+   Before: Arial
+   After:  Segoe UI (softer, more modern)
+
+4. ✅ SOFTER CORNERS
+   Before: Harsh borders
+   After:  Subtle shadows & highlights
+
+5. ✅ BETTER SPACING
+   More padding, less cramped
+   Everything breathes!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 NEW FEATURE: RECURRING EXPENSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+When adding expense, choose:
+  💸 One-Time  - Just this month
+  🔄 Recurring - Every month automatically!
+
+Perfect for:
+- Rent          - Phone bill
+- Utilities     - Subscriptions
+- Insurance     - Car payment
+
+New button: "🔄 Recurring Expenses"
+View & manage all auto-expenses!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✏️ EDIT EVERYTHING!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ EDIT EXPENSES
+   - Click "✏️ Edit" on any expense
+   - Change amount, description, category
+   - Delete if needed
+
+✅ EDIT INCOMES
+   - New button: "💵 Manage Incomes"
+   - Edit any income
+   - Update amounts, delete old ones
+
+✅ EDIT GOALS
+   - Click "✏️ Edit" on goals screen
+   - Change targets, amounts
+   - Delete completed goals
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 NEW DASHBOARD LAYOUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Row 1:  ➕ Add Expense          💵 Add Income
+Row 2:  💵 Manage Incomes       🎯 Manage Goals
+Row 3:  📊 View Reports         🔄 Recurring Expenses
+
+All centered & organized!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 BEFORE vs AFTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Feature                Before          After
+──────────────────────────────────────────────────────
+Colors                 Harsh           Soft ✓
+Layout                 Left            Center ✓
+Fonts                  Arial           Segoe UI ✓
+Corners                Sharp           Soft ✓
+Spacing                Cramped         Spacious ✓
+Edit Expenses          ❌              ✅
+Edit Incomes           ❌              ✅
+Edit Goals             ❌              ✅
+Recurring Expenses     ❌              ✅
+Manage Incomes Screen  ❌              ✅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 HOW TO USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADD RECURRING EXPENSE:
+1. Click "➕ Add Expense"
+2. Fill details
+3. Select "🔄 Recurring"
+4. Save - Done!
+
+EDIT AN EXPENSE:
+1. See expense on dashboard
+2. Click "✏️ Edit"
+3. Make changes
+4. Save or Delete
+
+MANAGE INCOMES:
+1. Click "💵 Manage Incomes"
+2. See all incomes
+3. Click "✏️ Edit" on any
+4. Update or delete
+
+VIEW RECURRING:
+1. Click "🔄 Recurring Expenses"
+2. See all monthly auto-expenses
+3. Remove if needed
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 READY TO USE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Run:  python budget_planner.py
+
+Experience:
+  ✓ Softer, pleasant colors
+  ✓ Centered, balanced design
+  ✓ Edit everything functionality
+  ✓ Recurring expenses automation
+  ✓ Much better overall!
+
+═══════════════════════════════════════════════════════════════════
+
+ALL YOUR REQUESTS: COMPLETED ✅
+
+- Design centered properly ✓
+- Colors softer, pleasant ✓
+- Corners improved ✓
+- Scrolling better ✓
+- Recurring/one-time expenses ✓
+- Edit all incomes ✓
+- Edit all expenses ✓
+- Edit all goals ✓
+
+ENJOY YOUR BEAUTIFUL BUDGET PLANNER! 🎉
+
+═══════════════════════════════════════════════════════════════════
+

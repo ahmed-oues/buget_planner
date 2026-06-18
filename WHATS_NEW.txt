@@ -1,0 +1,207 @@
+╔══════════════════════════════════════════════════════════════════╗
+║      💰 BUDGET PLANNER 2.0 - WHAT'S NEW! 💰                     ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🎉 5 MAJOR NEW FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. 🤖 AUTO-SALARY ADDITION
+   ✅ Remembers when you open app
+   ✅ Calculates if salary is due
+   ✅ Adds automatically
+   ✅ No manual entry needed!
+
+   Examples:
+   - Weekly: Every 7 days
+   - Monthly: Same day each month
+   - Bi-weekly: Every 14 days
+
+2. 💱 MULTI-CURRENCY SUPPORT
+   ✅ Tunisian Dinar (TND) - د.ت
+   ✅ US Dollar (USD) - $
+   ✅ Euro (EUR) - €
+
+   Change anytime in Settings!
+   All amounts update automatically
+
+3. 🎨 CUSTOMIZABLE THEMES (5 Options)
+   💗 Cute Pink (Default) - Fun & cheerful
+   💜 Purple Dream - Elegant & dreamy
+   🌊 Ocean Breeze - Calm & refreshing
+   🌅 Sunset Glow - Warm & cozy
+   🌲 Forest Zen - Natural & peaceful
+
+   Settings → Choose Theme → Instant change!
+
+4. 🐾 ANIMATED PETS (5 Companions)
+   🐱 Cute Cat - Blinking, tail wagging
+   🐶 Happy Dog - Floppy ears, excited
+   🐰 Fluffy Bunny - Hopping, wiggling ears
+   🐻 Teddy Bear - Cuddly, gentle
+   🐧 Cool Penguin - Flapping wings
+
+   Bottom-right corner, always moving!
+
+5. ✨ BETTER DESIGN LAYOUT
+   ✅ Centered cards (not left-aligned)
+   ✅ Balanced spacing
+   ✅ Professional look
+   ✅ Easy access to settings
+
+══════════════════════════════════════════════════════════════════
+
+🚀 QUICK START
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NEW USERS:
+1. python budget_planner.py
+2. Choose currency (TND/USD/EUR)
+3. Set up income
+4. Pick theme & pet
+5. Start budgeting!
+
+EXISTING USERS:
+- Your data is safe!
+- Open app normally
+- Click ⚙️ Settings to customize
+- Auto-salary works automatically
+
+══════════════════════════════════════════════════════════════════
+
+⚙️ SETTINGS ACCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Location: Top-right on dashboard
+Button: ⚙️ Settings
+
+Options Available:
+  💱 Change Currency
+  🎨 Select Theme (5 choices)
+  🐱 Choose Pet (5 options)
+
+══════════════════════════════════════════════════════════════════
+
+💡 HOW AUTO-SALARY WORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Setup:
+1. Enter salary amount
+2. Choose frequency
+3. Set payment day
+
+Automatic:
+- App tracks last open date
+- Calculates next payment
+- Adds salary if due
+- Shows notification!
+
+Example Notification:
+  "💰 Salary Added!
+   Your Monthly Salary of $3,500 has been added!
+   Payment date: June 15, 2026"
+
+══════════════════════════════════════════════════════════════════
+
+🎨 THEME PREVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Default:       💗 Pink + Blue (Cheerful, fun)
+Purple Dream:  💜 Purple + Lavender (Elegant)
+Ocean Breeze:  🌊 Cyan + Blue (Calm, peaceful)
+Sunset Glow:   🌅 Coral + Orange (Warm, cozy)
+Forest Zen:    🌲 Green + Natural (Zen, relaxing)
+
+All buttons, cards, and pets change color!
+
+══════════════════════════════════════════════════════════════════
+
+🐾 PET BEHAVIORS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Cat:     Blinks, wags tail elegantly
+Dog:     Wags tail fast, always happy
+Bunny:   Ears wiggle, hops gently
+Bear:    Calm, comforting presence
+Penguin: Wings flap, beak moves
+
+Location: Bottom-right corner
+Animation: Always active, smooth motion
+Purpose: Keep you company & reduce stress!
+
+══════════════════════════════════════════════════════════════════
+
+💱 CURRENCY FORMATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TND (Tunisian Dinar):
+  Format: 1,234.567 د.ت
+  Decimals: 3
+
+USD (US Dollar):
+  Format: $1,234.56
+  Decimals: 2
+
+EUR (Euro):
+  Format: €1,234.56
+  Decimals: 2
+
+Changes apply everywhere instantly!
+
+══════════════════════════════════════════════════════════════════
+
+📊 FEATURE COMPARISON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Feature          Before    After
+─────────────────────────────────────────
+Salary Entry     Manual    Automatic ✅
+Currency         $ only    3 options ✅
+Themes           1 pink    5 themes  ✅
+Animation        None      5 pets    ✅
+Layout           Left      Centered  ✅
+Settings Access  Hidden    Easy ⚙️   ✅
+
+══════════════════════════════════════════════════════════════════
+
+🎯 BENEFITS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏰ Save Time: Auto-salary entry
+🌍 International: Multi-currency
+😊 Personalize: Themes & pets
+💆 Reduce Stress: Cute animations
+🎨 Beautiful: Better design
+⚡ Efficient: Easy settings
+
+══════════════════════════════════════════════════════════════════
+
+📝 REMEMBER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ All settings saved automatically
+✓ Your data is safe & preserved
+✓ Can change theme/pet anytime
+✓ Currency can be switched in settings
+✓ Auto-salary works in background
+✓ Pets don't affect performance
+
+══════════════════════════════════════════════════════════════════
+
+🚀 TEST IT NOW!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Run:  python budget_planner.py
+
+Try:  - Pick Tunisian Dinar
+      - Choose Purple Dream theme
+      - Select fluffy bunny pet
+      - Add some expenses
+      - Watch your pet bounce!
+
+══════════════════════════════════════════════════════════════════
+
+💝 ENJOY YOUR NEW BUDGET PLANNER!
+   Fun • Personal • Automatic • Beautiful
+
+══════════════════════════════════════════════════════════════════
+

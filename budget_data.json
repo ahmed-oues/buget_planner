@@ -1,0 +1,33 @@
+{
+    "currency": "TND",
+    "regular_incomes": [
+        {
+            "name": "Monthly Salary",
+            "amount": 2200.0,
+            "frequency": "Monthly",
+            "payment_day": "26",
+            "current_left": 400.0,
+            "last_payment": "2026-06-18"
+        }
+    ],
+    "savings": {
+        "balance": 14.0,
+        "initial_balance": 14.0
+    },
+    "goals": [
+        {
+            "name": "Emergency fund",
+            "target_amount": 4000.0,
+            "current_amount": 14.0,
+            "created": "2026-06-18"
+        },
+        {
+            "name": "Upgrade Car",
+            "target_amount": 20000.0,
+            "current_amount": 0.0,
+            "created": "2026-06-18"
+        }
+    ],
+    "expenses": [],
+    "setup_complete": true
+}
